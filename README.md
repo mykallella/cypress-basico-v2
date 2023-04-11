@@ -11,6 +11,7 @@
 - Cypress (`v9.5.1`)
 - Node.js (`v16.13.2`)
 - npm (`v8.3.2`)
+- GitHub Actions (CI/CD)
 
 
 ## 🔧 Instalação
