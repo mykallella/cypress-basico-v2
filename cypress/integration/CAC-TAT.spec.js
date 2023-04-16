@@ -161,8 +161,8 @@ describe('Central de Atendimento ao Cliente TAT', function() {
     cy.get('input[type="radio"]') // pega todos os radios
       .should('have.length', 3) // verifica se há 3 radios
       .each(function($radio) { // para cada 'radio'...
-        cy.wrap($radio).check() // empacota e tica
-        cy.wrap($radio).should('be.checked') // empacota e verifica se foi ticado
+        cy.wrap($radio).check() // empacota e seleciona
+        cy.wrap($radio).should('be.checked') // empacota e verifica se foi selecionado
       })
   })
 
