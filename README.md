@@ -2,7 +2,7 @@
 
 ![preview](./preview.png)
  
- > Explorando o Cypress para automação de testes de front-end
+ > Explorando o Cypress para automação de testes funcionais de Interface Gráfica de Usuário (GUI) e API REST
 
  Projeto realizado durante o curso **Cypress Básico** da escola online **Talking About Testing**.
 
