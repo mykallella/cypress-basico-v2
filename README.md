@@ -26,15 +26,15 @@ Você pode executar testes simulando uma viewport desktop ou mobile:
 
 - ### Desktop
 
-	Execute `npm run test` para executar o teste no modo headless.
+	Execute `npm test` para executar o teste no modo headless.
 
-	Ou `npm cy:open` para executar o teste no modo interativo.
+	Ou `npm run cy:open` para executar o teste no modo interativo.
 
 - ### Mobile
 
-	Execute `npm run test:mobile` para executar o teste no modo headless.
+	Execute `npm test:mobile` para executar o teste no modo headless.
 
-	Ou `npm cy:open:mobile` para executar o teste no modo interativo.
+	Ou `npm run cy:open:mobile` para executar o teste no modo interativo.
 
 
 ## 🔗 Contato
