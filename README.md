@@ -2,7 +2,7 @@
 
 ![preview](./preview.png)
  
-> Explorando o Cypress para automação de testes - E2E e API REST
+> Cypress básico para automação de testes Web - E2E e API REST
 
  Projeto realizado durante o curso **Cypress Básico** da escola online **Talking About Testing**.
  
