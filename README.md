@@ -1,7 +1,11 @@
 # Talking About Testing | Cypress Básico
 
 ![preview](./preview.png)
- 
+
+https://github.com/user-attachments/assets/38b8eafb-b17e-43d5-b34b-439672ea99a6
+
+https://github.com/user-attachments/assets/c1d1f24f-47fa-4185-a29d-e0d38bb69c8a
+
 > Cypress básico para automação de testes Web - E2E e API REST
 
  Projeto realizado durante o curso **Cypress Básico** da escola online **Talking About Testing**.
